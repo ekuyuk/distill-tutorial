@@ -6,7 +6,7 @@
       "description": "My name is **Elif Kuyuk** abd I go to Bartlett High School. ",
       "author": [],
       "contents": "\r\nAbout Me\r\n“About the Project”\r\nMy project, The Title of My Project, explores creating a\r\nwebsite with visuals made using skills learned in class.\r\nGoals\r\nHave a neat, organized plot\r\nVariables could be hard to categorize\r\n\r\nWebsite should be easy to navigate through\r\n““This is Data Science””\r\n~Preceptor\r\n“Kane’s Free High School Data Science Bootcamp”\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:40:44-05:00"
+      "last_modified": "2022-08-08T13:08:58-05:00"
     },
     {
       "path": "index.html",
@@ -27,8 +27,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T12:40:52-05:00"
+      "contents": "\r\nbibliography: bibliography.bib\r\nSource A was Primer.data. It was Flawless. [@primerdata]\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n[@jones2018distill]\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T13:43:20-05:00"
     },
     {
       "path": "source_B.html",
