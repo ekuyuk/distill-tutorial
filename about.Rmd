@@ -1,10 +1,22 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  My name is **Elif Kuyuk** abd I go to Bartlett High School. 
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me 
+## "About the Project"
+ My project, *The Title of My Project*, explores creating a website with visuals made using skills learned in class. 
+ 
+## Goals 
+* Have a neat, organized plot 
+  + Variables could be hard to categorize
+* Website should be easy to navigate through
+
+""This is Data Science""  
+~Preceptor  
+
+["Kane's Free High School Data Science Bootcamp"]()

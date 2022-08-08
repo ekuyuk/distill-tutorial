@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
+      "description": "My name is **Elif Kuyuk** abd I go to Bartlett High School. ",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T11:15:08-05:00"
+      "contents": "\r\nAbout Me\r\n“About the Project”\r\nMy project, The Title of My Project, explores creating a\r\nwebsite with visuals made using skills learned in class.\r\nGoals\r\nHave a neat, organized plot\r\nVariables could be hard to categorize\r\n\r\nWebsite should be easy to navigate through\r\n““This is Data Science””\r\n~Preceptor\r\n“Kane’s Free High School Data Science Bootcamp”\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-08-08T12:01:48-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-08-08T11:15:15-05:00"
+      "last_modified": "2022-08-08T12:01:54-05:00"
     }
   ],
   "collections": []
